@@ -1,0 +1,17 @@
+-------------------------------------------------------------------
+<A NAME="BND_1_1"></A>
+<H2>BND_1_1</H2>
+<P>This is a section that provides additional information about BND_1_1.
+<BR>
+<BR>Item: cloneA
+<BR>Score: 960
+<BR>Chromosome: 22
+<BR>Band: 22p13
+<BR>Begin in Chromosome: 10000001
+<BR>End in Chromosome: 10004000
+<BR>Genomic Size: 4000
+<BR>
+<BR>
+
+<HR>
+</PRE>
